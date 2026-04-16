@@ -11,3 +11,5 @@ MatchStick.
 <br>Kaley Chung - Find Study Spaces
 <br>Tiffany Yu - Sidebar
 <br>Jayani Duggirala - Dashboard and Find Match
+
+Won WIC's Best Project of Fall 2025 
